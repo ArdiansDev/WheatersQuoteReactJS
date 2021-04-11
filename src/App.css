@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+.App {
+  text-align: center;
+  height: 100vh;
+  color: white;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Weather .City {
+  position: absolute;
+
+  bottom: 5vh;
+  left: 5vw;
+  text-align: left;
+  margin: 0;
+}
+
+.Weather h1 {
+  margin: 0;
+  font-size: 96px;
+  font-family: "Roboto", sans-serif;
+}
+
+.Weather h2 {
+  margin: 0;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 24px;
+}
+
+.form {
+  /* background-color: white; */
+  justify-content: center;
+  align-items: center;
+
+  /* padding-left: 5vw; */
+  display: flex;
+}
+
+.paper {
+  margin-top: 5vh;
+  align-items: center;
+  opacity: 50%;
+  padding-left: 2vw;
+  display: flex;
+}
+.Quote {
+  padding-top: 10vh;
+}
