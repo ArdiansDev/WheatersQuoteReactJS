@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/WheatersQuoteReactJS/static/css/main.8b5fc4ea.chunk.css",
-    "main.js": "/WheatersQuoteReactJS/static/js/main.79197613.chunk.js",
-    "main.js.map": "/WheatersQuoteReactJS/static/js/main.79197613.chunk.js.map",
+    "main.js": "/WheatersQuoteReactJS/static/js/main.ff2df78d.chunk.js",
+    "main.js.map": "/WheatersQuoteReactJS/static/js/main.ff2df78d.chunk.js.map",
     "runtime-main.js": "/WheatersQuoteReactJS/static/js/runtime-main.99eba983.js",
     "runtime-main.js.map": "/WheatersQuoteReactJS/static/js/runtime-main.99eba983.js.map",
-    "static/js/2.50d4f5b7.chunk.js": "/WheatersQuoteReactJS/static/js/2.50d4f5b7.chunk.js",
-    "static/js/2.50d4f5b7.chunk.js.map": "/WheatersQuoteReactJS/static/js/2.50d4f5b7.chunk.js.map",
+    "static/js/2.b246f646.chunk.js": "/WheatersQuoteReactJS/static/js/2.b246f646.chunk.js",
+    "static/js/2.b246f646.chunk.js.map": "/WheatersQuoteReactJS/static/js/2.b246f646.chunk.js.map",
     "static/js/3.6e0c1529.chunk.js": "/WheatersQuoteReactJS/static/js/3.6e0c1529.chunk.js",
     "static/js/3.6e0c1529.chunk.js.map": "/WheatersQuoteReactJS/static/js/3.6e0c1529.chunk.js.map",
     "index.html": "/WheatersQuoteReactJS/index.html",
     "static/css/main.8b5fc4ea.chunk.css.map": "/WheatersQuoteReactJS/static/css/main.8b5fc4ea.chunk.css.map",
-    "static/js/2.50d4f5b7.chunk.js.LICENSE.txt": "/WheatersQuoteReactJS/static/js/2.50d4f5b7.chunk.js.LICENSE.txt",
+    "static/js/2.b246f646.chunk.js.LICENSE.txt": "/WheatersQuoteReactJS/static/js/2.b246f646.chunk.js.LICENSE.txt",
     "static/media/img1.f100c113.png": "/WheatersQuoteReactJS/static/media/img1.f100c113.png"
   },
   "entrypoints": [
     "static/js/runtime-main.99eba983.js",
-    "static/js/2.50d4f5b7.chunk.js",
+    "static/js/2.b246f646.chunk.js",
     "static/css/main.8b5fc4ea.chunk.css",
-    "static/js/main.79197613.chunk.js"
+    "static/js/main.ff2df78d.chunk.js"
   ]
 }
