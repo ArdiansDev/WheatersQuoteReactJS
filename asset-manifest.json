@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WheatersQuoteReactJS/static/css/main.74d01a26.chunk.css",
-    "main.js": "/WheatersQuoteReactJS/static/js/main.273cc996.chunk.js",
-    "main.js.map": "/WheatersQuoteReactJS/static/js/main.273cc996.chunk.js.map",
+    "main.js": "/WheatersQuoteReactJS/static/js/main.38a34198.chunk.js",
+    "main.js.map": "/WheatersQuoteReactJS/static/js/main.38a34198.chunk.js.map",
     "runtime-main.js": "/WheatersQuoteReactJS/static/js/runtime-main.11b37489.js",
     "runtime-main.js.map": "/WheatersQuoteReactJS/static/js/runtime-main.11b37489.js.map",
     "static/js/2.b2f989f3.chunk.js": "/WheatersQuoteReactJS/static/js/2.b2f989f3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.11b37489.js",
     "static/js/2.b2f989f3.chunk.js",
     "static/css/main.74d01a26.chunk.css",
-    "static/js/main.273cc996.chunk.js"
+    "static/js/main.38a34198.chunk.js"
   ]
 }
