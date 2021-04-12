@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/WheatersQuoteReactJS/static/css/main.74d01a26.chunk.css",
-    "main.js": "/WheatersQuoteReactJS/static/js/main.38a34198.chunk.js",
-    "main.js.map": "/WheatersQuoteReactJS/static/js/main.38a34198.chunk.js.map",
-    "runtime-main.js": "/WheatersQuoteReactJS/static/js/runtime-main.11b37489.js",
-    "runtime-main.js.map": "/WheatersQuoteReactJS/static/js/runtime-main.11b37489.js.map",
-    "static/js/2.b2f989f3.chunk.js": "/WheatersQuoteReactJS/static/js/2.b2f989f3.chunk.js",
-    "static/js/2.b2f989f3.chunk.js.map": "/WheatersQuoteReactJS/static/js/2.b2f989f3.chunk.js.map",
-    "static/js/3.8d967947.chunk.js": "/WheatersQuoteReactJS/static/js/3.8d967947.chunk.js",
-    "static/js/3.8d967947.chunk.js.map": "/WheatersQuoteReactJS/static/js/3.8d967947.chunk.js.map",
+    "main.css": "/WheatersQuoteReactJS/static/css/main.908356e7.chunk.css",
+    "main.js": "/WheatersQuoteReactJS/static/js/main.ff2df78d.chunk.js",
+    "main.js.map": "/WheatersQuoteReactJS/static/js/main.ff2df78d.chunk.js.map",
+    "runtime-main.js": "/WheatersQuoteReactJS/static/js/runtime-main.99eba983.js",
+    "runtime-main.js.map": "/WheatersQuoteReactJS/static/js/runtime-main.99eba983.js.map",
+    "static/js/2.b246f646.chunk.js": "/WheatersQuoteReactJS/static/js/2.b246f646.chunk.js",
+    "static/js/2.b246f646.chunk.js.map": "/WheatersQuoteReactJS/static/js/2.b246f646.chunk.js.map",
+    "static/js/3.6e0c1529.chunk.js": "/WheatersQuoteReactJS/static/js/3.6e0c1529.chunk.js",
+    "static/js/3.6e0c1529.chunk.js.map": "/WheatersQuoteReactJS/static/js/3.6e0c1529.chunk.js.map",
     "index.html": "/WheatersQuoteReactJS/index.html",
-    "static/css/main.74d01a26.chunk.css.map": "/WheatersQuoteReactJS/static/css/main.74d01a26.chunk.css.map",
-    "static/js/2.b2f989f3.chunk.js.LICENSE.txt": "/WheatersQuoteReactJS/static/js/2.b2f989f3.chunk.js.LICENSE.txt",
+    "static/css/main.908356e7.chunk.css.map": "/WheatersQuoteReactJS/static/css/main.908356e7.chunk.css.map",
+    "static/js/2.b246f646.chunk.js.LICENSE.txt": "/WheatersQuoteReactJS/static/js/2.b246f646.chunk.js.LICENSE.txt",
     "static/media/img1.f100c113.png": "/WheatersQuoteReactJS/static/media/img1.f100c113.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.11b37489.js",
-    "static/js/2.b2f989f3.chunk.js",
-    "static/css/main.74d01a26.chunk.css",
-    "static/js/main.38a34198.chunk.js"
+    "static/js/runtime-main.99eba983.js",
+    "static/js/2.b246f646.chunk.js",
+    "static/css/main.908356e7.chunk.css",
+    "static/js/main.ff2df78d.chunk.js"
   ]
 }
